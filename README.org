@@ -1,0 +1,9 @@
+* cl-csv
+
+A common lisp library providing easy csv reading and writing.
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/cl-csv.git |
+| commit  | 68ecb5d                                           |
+| systems | cl-csv cl-csv-clsql cl-csv-data-table             |
+|---------+---------------------------------------------------|
