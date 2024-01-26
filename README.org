@@ -4,6 +4,6 @@ A common lisp library providing easy csv reading and writing.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/AccelerationNet/cl-csv.git |
-| commit  | 64be9b6                                           |
+| commit  | 2d64d41                                           |
 | systems | cl-csv cl-csv-clsql cl-csv-data-table             |
 |---------+---------------------------------------------------|
